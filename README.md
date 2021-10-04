@@ -7,8 +7,10 @@ Feedbro RSS Lingua Italiana
 
 Puoi scaricare Feedbro da:
 
-https://nodetics.com/feedbro/
-https://addons.mozilla.org/fr/firefox/addon/feedbroreader/
+https://nodetics.com/feedbro
+
+https://addons.mozilla.org/fr/firefox/addon/feedbroreader
+
 https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa
 
 
