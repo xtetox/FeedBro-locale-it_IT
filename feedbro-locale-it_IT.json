@@ -7,7 +7,7 @@
         "locale_last_updated": "2019-10-18 12:00:00 UTC",
         "locale_author_name": "Bacchidus",
         "locale_author_email": "nodetics@gmail.com",
-        "locale_source_url": ""
+        "locale_source_url": "https://raw.githubusercontent.com/xtetox/pop3/main/feedbro-locale-it_IT.json"
     },
     "addfeed_url_body": "URL feed",
     "addfeed_load_body": "Carica",
