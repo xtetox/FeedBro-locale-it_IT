@@ -413,7 +413,7 @@
     "ruleform_action_ifttt_body": "URL POST HTTP del canale IFTTT Maker",
     "ruleform_action_ifttt_title": "Inserisci l'URL completo dell'URL POST del canale IFTTT Maker personalizzato come parametro.",
     "ruleform_action_points_body": "Aggiungi punti",
-    "ruleform_action_points_title": "Aggiungi o sottrai punti dall'elemento del feed corrispondente. I punti totali vengono considerati quando utilizzi l'ordinamento" Ordina per punti ".",
+    "ruleform_action_points_title": "Aggiungi o sottrai punti dall'elemento del feed corrispondente. I punti totali vengono considerati quando utilizzi l'ordinamento 'Ordina per punti'",
     "ruleform_action_discord_body": "Discord HTTP POST URL",
     "ruleform_action_discord_title": "Invia il titolo dell'articolo e il collegamento al canale Discord",
     "ruleform_action_slack_body": "URL POST HTTP Slack",
