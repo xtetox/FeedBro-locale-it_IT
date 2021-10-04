@@ -18,3 +18,5 @@ davanti a "Lingua interfaccia utente" fare clic su "Importa locale" e inserire n
 https://raw.githubusercontent.com/xtetox/FeedBro-locale-it_IT/main/feedbro-locale-it_IT.json
 
 Poi aggiorna impostazioni internazionali
+
+forked from  odkbacco / FeedBro-locale-it_IT 
