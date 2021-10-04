@@ -46,7 +46,7 @@
     "addfeed_load_error_loadfailed": "Impossibile caricare il feed {1}:\n{2}: {3}",
     "addfeed_alternatives_clicktip": "Fai clic per selezionare questo feed",
     "article_links_addstar": "Aggiungi una stella - Scorciatoia: s",
-    "article_links_sendto_title": "Fai clic per inviare il link tramite email o salva / condividi su siti di social media come Facebook, Twitter, ecc."
+    "article_links_sendto_title": "Fai clic per inviare il link tramite email o salva / condividi su siti di social media come Facebook, Twitter, ecc.",
     "article_links_sendto_body": "Invia a",
     "article_action_pocket_success": "Salvato in Pocket: '{1}'",
     "article_action_keepunread_body": "Non leggere",
@@ -537,7 +537,7 @@
     "toolbar_findfeed_title": "Trova un nuovo feed",
     "toolbar_addfeed_title": "Aggiungi un nuovo feed",
     "toolbar_addfolder_title": "Aggiungi una nuova cartella",
-    "toolbar_markread_title": "Contrassegna come lette tutte le voci del feed nel feed o nella cartella attualmente selezionata - Scorciatoia 'Shift + a '"
+    "toolbar_markread_title": "Contrassegna come lette tutte le voci del feed nel feed o nella cartella attualmente selezionata - Scorciatoia 'Shift + a '",
     "toolbar_unread_title": "Mostra solo articoli non letti (se evidenziati) - Scorciatoia 'u'",
     "toolbar_viewmode1_title": "Modalità di visualizzazione 1: Elenco di articoli completi - Scorciatoia '1'",
     "toolbar_viewmode2_title": "Modalità di visualizzazione 2: Elenco dei titoli degli articoli (fai clic per aprire) - Scorciatoia '2'",
