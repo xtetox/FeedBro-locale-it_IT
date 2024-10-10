@@ -517,8 +517,6 @@
     "mainmenu_addtofolder": "Aggiungi alla cartella",
     "mainmenu_input_title": "Fai clic per selezionare questo feed",
     "mainmenu_newtab_title": "Fai clic per aprire la fonte originale in una nuova scheda.",
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-
     "statsview_table_selected": "Selezionato",
     "statsview_table_rowclick_title": "Fai clic per leggere le voci",
     "statsview_table_days": "days",
