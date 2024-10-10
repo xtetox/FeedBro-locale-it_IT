@@ -569,7 +569,7 @@
     "loadstatus_603": "XML non valido - Valori data di immissione mancanti",
     "loadstatus_broken": "Broken",
     "mainmenu_addtofolder": "Aggiungi alla cartella",
-    "mainmenu_input_title": "Fai clic per selezionare ques    "itemage_2w_body": "Età massima articolo 2 settimane",
+    "mainmenu_input_title": "Fai clic per selezionare questo",
     "itemage_1m_body": "Età massima articolo 1 mese",
     "itemage_2m_body": "Età massima articolo 2 mesi",
     "itemage_6m_body": "Età massima articolo 6 mesi",
@@ -591,11 +591,7 @@
     "mainmenu_addtofolder": "Aggiungi alla cartella",
     "mainmenu_input_title": "Fai clic per selezionare questo feed",
     "mainmenu_newtab_title": "Fai clic per aprire la fonte originale in una nuova scheda.",
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-to feed",
     "mainmenu_newtab_title": "Fai clic per aprire la fonte originale in una nuova scheda.",
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-
     "timeago_month_plural": "mesi",
     "timeago_year_plural": "anni",
     "toolbar_hidetree_title": "Nascondi / mostra albero feed - Scorciatoia 'w'",
